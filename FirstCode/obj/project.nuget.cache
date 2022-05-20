@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "cDJ3HJE56ciB2Bi8gYjjd7zDXz9wOnvG5NuKe3+6n7Cr2MQ9DAB3x90a6QfqUVolFjdF5CA67ZrqdNp7Alr1mg==",
+  "dgSpecHash": "8MAczwQWfhPqcSJN5y2Itk9GffAJqHTDxTeoYehV+ahv6j3iDf7zJm7sqDvkHwA7vXDWiSqeIocq8ovhdv4OQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\android\\Documents\\RegySoftware\\projetosabertos\\FirstCode\\FirstCode.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\gestaomargiteens\\Documents\\GitHubRegymatrix\\projetosabertos\\FirstCode\\FirstCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gestaomargiteens\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\gestaomargiteens\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\gestaomargiteens\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\gestaomargiteens\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
