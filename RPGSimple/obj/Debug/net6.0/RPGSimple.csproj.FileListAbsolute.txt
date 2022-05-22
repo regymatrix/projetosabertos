@@ -1,0 +1,15 @@
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\RPGSimple\bin\Debug\net6.0\RPGSimple.exe
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\RPGSimple\bin\Debug\net6.0\RPGSimple.deps.json
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\RPGSimple\bin\Debug\net6.0\RPGSimple.runtimeconfig.json
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\RPGSimple\bin\Debug\net6.0\RPGSimple.dll
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\RPGSimple\bin\Debug\net6.0\RPGSimple.pdb
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\RPGSimple\obj\Debug\net6.0\RPGSimple.csproj.AssemblyReference.cache
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\RPGSimple\obj\Debug\net6.0\RPGSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\RPGSimple\obj\Debug\net6.0\RPGSimple.AssemblyInfoInputs.cache
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\RPGSimple\obj\Debug\net6.0\RPGSimple.AssemblyInfo.cs
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\RPGSimple\obj\Debug\net6.0\RPGSimple.csproj.CoreCompileInputs.cache
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\RPGSimple\obj\Debug\net6.0\RPGSimple.dll
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\RPGSimple\obj\Debug\net6.0\refint\RPGSimple.dll
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\RPGSimple\obj\Debug\net6.0\RPGSimple.pdb
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\RPGSimple\obj\Debug\net6.0\RPGSimple.genruntimeconfig.cache
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\RPGSimple\obj\Debug\net6.0\ref\RPGSimple.dll
