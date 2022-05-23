@@ -19,7 +19,6 @@ namespace rpg
 
            for (int i = 0; i < 4; i++)
            {
-                
                 if ((Team01K[rnd.Next(0,3)].Level) >(Team02W[rnd.Next(0,3)].Level)) {
                     Team01kscore = Team01kscore+10;
                 } else if ((Team01K[rnd.Next(0,3)].Level) <(Team02W[rnd.Next(0,3)].Level)) {
@@ -30,32 +29,25 @@ namespace rpg
                 }               
            }
 
-           Hero win = new Hero();
+           string[] listwin = new string[4];
 
            if (Team01kscore > Team02kscore){
                Console.WriteLine ($"The win is the Team 01 with {Team01kscore} points");
-                string[] listwin =win.Members(knight.listPlayers());
-                Console.WriteLine("The members are:"); 
-                foreach (var item in listwin)
-                {
-                    Console.WriteLine(item.ToString());
-                }
+                listwin =Hero.Members(knight.listPlayers());                            
            } else if (Team01kscore < Team02kscore) {
-               Console.WriteLine ($"The win is the Team 02 with {Team01kscore} points");
-                string[] listwin =win.Members(wizard.listPlayers());
-                Console.WriteLine("The members are:"); 
-                foreach (var item in listwin)
-                {
-                    Console.WriteLine(item.ToString());
-                }
+                Console.WriteLine ($"The win is the Team 02 with {Team01kscore} points");
+                listwin =Hero.Members(wizard.listPlayers());
+               
            } else {
-              Console.WriteLine("No one won");
+              Console.WriteLine("Nobody won");
            }
 
-        
-
-           
-                      
+            Console.WriteLine("The members are:"); 
+            foreach (var item in listwin)
+            {
+                    Console.WriteLine(item.ToString());
+            }
+                     
         
         }
 

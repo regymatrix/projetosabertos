@@ -2,7 +2,7 @@ namespace RPGSimple.src.Entities
 {
     public class Knight : Hero,  IPlayBegin
     {
-
+        
 
         public Knight(string Name, int Level, string HeroType)
         {

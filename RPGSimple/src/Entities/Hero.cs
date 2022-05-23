@@ -15,10 +15,10 @@ namespace RPGSimple.src.Entities
         
         public override string ToString()
         {
-            return "Nome: "+this.Name +" Level: "+Level;
+            return "Nome: "+this.Name +" Level: "+Level ;
         }
         
-        public string[] Members(List<Hero> Heroes){
+        static public string[] Members(List<Hero> Heroes){
             int i =Heroes.Count();
             string[] namesmembers = new string[Heroes.Count()];            
             foreach (var item in Heroes)
