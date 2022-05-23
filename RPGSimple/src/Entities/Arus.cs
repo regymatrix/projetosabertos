@@ -11,15 +11,11 @@ namespace RPGSimple.src.Entities
          {
              this.Name=Name;
              this.Level=Level;
-             this.HeroTypes=HeroType;
-        
+             this.HeroTypes=HeroType;        
          }
-
         
         public override string ToString()
         {
-
-
             return "Nome: "+this.Name +" Level: "+Level;
         }
 
