@@ -17,6 +17,7 @@ namespace rpg
            int Team02kscore = 0;
            Random rnd = new Random();
 
+            //Play Game
            for (int i = 0; i < 4; i++)
            {
                 if ((Team01K[rnd.Next(0,3)].Level) >(Team02W[rnd.Next(0,3)].Level)) {
@@ -30,7 +31,7 @@ namespace rpg
            }
 
            string[] listwin = new string[4];
-
+            // Verify winning
            if (Team01kscore > Team02kscore){
                Console.WriteLine ($"The win is the Team 01 with {Team01kscore} points");
                 listwin =Hero.Members(knight.listPlayers());                            
@@ -42,6 +43,7 @@ namespace rpg
               Console.WriteLine("Nobody won");
            }
 
+            //list members of winning team
             Console.WriteLine("The members are:"); 
             foreach (var item in listwin)
             {
