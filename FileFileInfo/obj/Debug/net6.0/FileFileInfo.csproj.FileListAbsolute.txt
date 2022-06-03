@@ -1,0 +1,15 @@
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\FileFileInfo\bin\Debug\net6.0\FileFileInfo.exe
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\FileFileInfo\bin\Debug\net6.0\FileFileInfo.deps.json
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\FileFileInfo\bin\Debug\net6.0\FileFileInfo.runtimeconfig.json
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\FileFileInfo\bin\Debug\net6.0\FileFileInfo.dll
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\FileFileInfo\bin\Debug\net6.0\FileFileInfo.pdb
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\FileFileInfo\obj\Debug\net6.0\FileFileInfo.csproj.AssemblyReference.cache
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\FileFileInfo\obj\Debug\net6.0\FileFileInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\FileFileInfo\obj\Debug\net6.0\FileFileInfo.AssemblyInfoInputs.cache
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\FileFileInfo\obj\Debug\net6.0\FileFileInfo.AssemblyInfo.cs
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\FileFileInfo\obj\Debug\net6.0\FileFileInfo.csproj.CoreCompileInputs.cache
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\FileFileInfo\obj\Debug\net6.0\FileFileInfo.dll
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\FileFileInfo\obj\Debug\net6.0\refint\FileFileInfo.dll
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\FileFileInfo\obj\Debug\net6.0\FileFileInfo.pdb
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\FileFileInfo\obj\Debug\net6.0\FileFileInfo.genruntimeconfig.cache
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\FileFileInfo\obj\Debug\net6.0\ref\FileFileInfo.dll
