@@ -1,0 +1,15 @@
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\PrjCRUDMemory\bin\Debug\net6.0\PrjCRUDMemory.exe
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\PrjCRUDMemory\bin\Debug\net6.0\PrjCRUDMemory.deps.json
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\PrjCRUDMemory\bin\Debug\net6.0\PrjCRUDMemory.runtimeconfig.json
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\PrjCRUDMemory\bin\Debug\net6.0\PrjCRUDMemory.dll
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\PrjCRUDMemory\bin\Debug\net6.0\PrjCRUDMemory.pdb
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\PrjCRUDMemory\obj\Debug\net6.0\PrjCRUDMemory.csproj.AssemblyReference.cache
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\PrjCRUDMemory\obj\Debug\net6.0\PrjCRUDMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\PrjCRUDMemory\obj\Debug\net6.0\PrjCRUDMemory.AssemblyInfoInputs.cache
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\PrjCRUDMemory\obj\Debug\net6.0\PrjCRUDMemory.AssemblyInfo.cs
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\PrjCRUDMemory\obj\Debug\net6.0\PrjCRUDMemory.csproj.CoreCompileInputs.cache
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\PrjCRUDMemory\obj\Debug\net6.0\PrjCRUDMemory.dll
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\PrjCRUDMemory\obj\Debug\net6.0\refint\PrjCRUDMemory.dll
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\PrjCRUDMemory\obj\Debug\net6.0\PrjCRUDMemory.pdb
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\PrjCRUDMemory\obj\Debug\net6.0\PrjCRUDMemory.genruntimeconfig.cache
+C:\Users\gestaomargiteens\Documents\GitHubRegymatrix\projetosabertos\PrjCRUDMemory\obj\Debug\net6.0\ref\PrjCRUDMemory.dll
